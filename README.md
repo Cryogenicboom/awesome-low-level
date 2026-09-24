@@ -404,6 +404,7 @@ Focus on learning common data structures like arrays, linked lists, stacks, queu
 - **[Algorithms Design in C](https://www.ime.usp.br/~pf/algorithms/)**
 - **[C DSA interactive Suite](https://github.com/darshan2456/C_DSA_interactive_suite)**
 - **[Algorithms (Sedgewick & Wayne)](https://algs4.cs.princeton.edu/home/)**
+- **[A common sense guide to DSA (Jay Wengrow)](https://dokumen.pub/a-common-sense-guide-to-data-structures-and-algorithms-level-up-your-core-programming-skills-2nbsped-1680507222-9781680507225.html)**
  
 ## 5. Build Small Projects
  
